@@ -9,6 +9,7 @@ class Solution:
         return None
     
 ## Solution less than O(n^2) time complexity
+
 class Solution_2:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         num_dict = {}
